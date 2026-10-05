@@ -32,5 +32,5 @@ An app that checks if a money transaction is Fraud or Not Fraud. The model caugh
 ## Get in touch
 ## Looking for an internship
 I am looking for an internship in **Data Science / Machine Learning**, where I can learn from a team and contribute. Feel free to reach out!
-* 📧 Email: [your email]
+* 📧 Email: [mdfaizankhan9432@gmail.com]
 * 💼 LinkedIn: [your LinkedIn link]

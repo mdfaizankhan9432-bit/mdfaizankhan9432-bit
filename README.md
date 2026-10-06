@@ -4,10 +4,10 @@ I am learning **Data Science and Machine Learning**. I enjoy taking a dataset, u
 
 ## What I work on
 
+* **Data Science:** Learning how to work with data and build machine learning models through projects
 * **Data Analysis:** Cleaning data, finding patterns and making sense of what the numbers say
 * **Machine Learning:** Training and comparing models to predict things like fraud and customer churn
 * **Generative AI:** Learning how to use AI tools in my work and projects
-* **Apps:** Turning a finished model into a simple web app that anyone can try
 
 ## My projects
 

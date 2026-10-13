@@ -7,7 +7,7 @@ I am learning **Data Science and Machine Learning**. I enjoy taking a dataset, u
 * **Data Science:** Learning how to work with data and build machine learning models through projects
 * **Data Analysis:** Cleaning data, finding patterns and making sense of what the numbers say
 * **Machine Learning:** Training and comparing models to predict things like fraud and customer churn
-* **Generative AI:** Learning how to use AI tools in my work and projects
+* **AI:** Learning how to use AI tools in my work and projects
 
 ## My projects
 
@@ -30,7 +30,6 @@ An app that checks if a money transaction is Fraud or Not Fraud. The model caugh
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Get in touch
-## Looking for an internship
-I am looking for an internship in **Data Science / Machine Learning**, where I can learn from a team and contribute. Feel free to reach out!
+I am looking for an internship in **Data Science / Machine Learning**, where I can learn from a team and contribute.
 * 📧 Email: [mdfaizankhan9432@gmail.com]
 * 💼 LinkedIn: [www.linkedin.com/in/md-faizan-khan-459a73426]
